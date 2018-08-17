@@ -8,11 +8,11 @@
 #sendform[disabled="disabled"]{background:#eee!important}
 #contact_layout{font-family:'Lato';text-align:center;position:fixed;top:0;left:0;bottom:0;right:0;background:rgba(0,0,0,.5);z-index:99999}
 .contact_top{margin:-55px auto 15px}
-.contact_top i{background:#fff;color:#0c5460;font-size:35px;font-weight:400;text-align:center;margin:auto;border-radius:100%;line-height:60px;padding:0 14px;border:5px solid #2e4b63}
-.contact_message{width:40%;background:#FFF;color:#2e4b63;border-radius:2px;padding:20px;text-align:center;color:#2e4b63;position:absolute;top:10%;left:50%;margin-left:-20%;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+.contact_top i{background:#70C340;color:#fff;font-size:35px;font-weight:400;text-align:center;margin:auto;border-radius:100%;line-height:60px;padding:0 14px;border:5px solid #FFF}
+.contact_message{width:40%;background:#FFF;color:#fff;border-radius:5px;padding:20px;text-align:center;color:#333;position:absolute;top:10%;left:50%;margin-left:-20%;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
 .contact_message b{text-transform:capitalize;font-size:20px;letter-spacing:.2px;display:block;font-weight:400}
-.contact_message p{margin:15px 0;color:#2e4b63}
-.contact_message a{display:block;background:#fff;border-radius:5px;line-height:40px;color:#0c5460!important;text-transform:uppercase;font-weight:700;font-size:15px;border-bottom:1px dashed #0c5460;}
+.contact_message p{margin:15px 0;color:#373D3F}
+.contact_message a{display:block;background:#70c340;border-radius:5px;line-height:40px;color:#fff!important;text-transform:uppercase;font-weight:700;font-size:15px}
 .contact-form-error-message-with-border img{display:none!important}
 .error_message a,.error_message .fas-envelope{background:#E66148!important}
 @media screen and (max-width:768px) {.contact_message{width:90%!important;margin-left:-45%!important}}
